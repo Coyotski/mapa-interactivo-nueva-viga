@@ -1,0 +1,41 @@
+NOMBRE,RAZÓN SOCIAL,ANDEN Y NÚMERO DE BODEGA,TELÉFONO,CORREO ELECTRÓNICO,PRODUCTO,OBSERVACIONES
+JUAN PÉREZ MARTÍNEZ,Mariscos del Pacífico SA,A1,55 1234 5678,mariscos.pacifico@example.com,"Camarón, Pulpo, Pescado blanco",Especialidad en mariscos frescos del Pacífico
+MARÍA GONZÁLEZ LÓPEZ,,A2,55 2345 6789,maria.gonzalez@example.com,"Mojarra, Lisa, Carpa",Pescados de agua dulce
+,Distribuidora Marina México,A3,55 3456 7890,ventas@marina.example.com,"Atún, Salmón, Sardina",Productos congelados de importación
+CARLOS RODRÍGUEZ SANTOS,Pescadería La Sirena,A4,55 4567 8901,lasirena@example.com,"Huachinango, Mero, Robalo",Pescados del Golfo de México
+ANA FERNÁNDEZ VEGA,,A5,55 5678 9012,ana.fernandez@example.com,"Camarón jumbo, Langostino",Especialidad en crustáceos
+ROBERTO SILVA MORALES,Mariscos Don Roberto,A6,55 6789 0123,donroberto@example.com,"Pulpo, Calamar, Sepia",Cefalópodos frescos y congelados
+PATRICIA JIMÉNEZ RUIZ,,A7,55 7890 1234,pjimenez@example.com,"Ostión, Almeja, Mejillón",Moluscos bivalvos
+,Congelados del Norte SA,A8,55 8901 2345,norte@example.com,"Tilapia, Bagre, Trucha",Productos de acuacultura
+MIGUEL TORRES HERRERA,Pescadería El Puerto,A9,55 9012 3456,elpuerto@example.com,"Camarón pacotilla, Jaiba",Mariscos económicos
+DIANA CASTILLO NAVARRO,,A10,55 0123 4567,dcastillo@example.com,"Bacalao, Merluza, Abadejo",Pescados salados y secos
+FERNANDO MORENO LUNA,Distribuidora Océano Azul,B1,55 1357 2468,oceano.azul@example.com,"Corvina, Pargo, Cherna",Pescados de mar abierto
+LUCÍA RAMÍREZ SOTO,,B2,55 2468 1357,lucia.ramirez@example.com,"Camarón tigre, Langosta",Mariscos premium
+,Mariscos La Costa SA,B3,55 3691 4702,lacosta@example.com,"Pescado entero, Filete",Procesamiento y distribución
+ALEJANDRO CRUZ MENDOZA,Pescadería San Andrés,B4,55 4702 5813,sanandres@example.com,"Mojarra tilapia, Carpa",Peces de granja
+SOFÍA VARGAS DELGADO,,B5,55 5813 6924,svargas@example.com,"Camarón coctelero, Pulpo baby",Mariscos para restaurantes
+JORGE HERRERA CAMPOS,Congelados Modernos,B6,55 6924 7035,modernos@example.com,"Filete de pescado, Camarón pelado",Productos procesados
+VALERIA ORTIZ PEÑA,,B7,55 7035 8146,vortiz@example.com,"Lisa ahumada, Robalo en sal",Productos curados
+,Distribuidora Mariscos del Sur,B8,55 8146 9257,sur@example.com,"Camarón seco, Charales",Productos tradicionales mexicanos
+RICARDO MENDOZA VILLA,El Pescador Feliz,B9,55 9257 0368,pescadorfeliz@example.com,"Pescado para ceviche, Limón",Combo para preparación
+ELENA REYES AGUILAR,,B10,55 0368 1479,ereyes@example.com,"Algas marinas, Caviar",Productos gourmet
+FRANCISCO GUERRERO LÓPEZ,Mariscos Francisco,C1,55 1479 2580,francisco@example.com,"Camarón jumbo, Langostino tigre",Crustáceos de exportación
+GUADALUPE MORALES CASTRO,,C2,55 2580 3691,gmorales@example.com,"Pescado fresco del día",Variedad diaria según temporada
+,Procesadora de Mariscos Unidos,C3,55 3691 4702,unidos@example.com,"Surimi, Imitación cangrejo",Productos industrializados
+DANIEL RIVERA SANTOS,Pescadería Río Grande,C4,55 4702 5813,riogrande@example.com,"Bagre, Mojarra de río",Peces de agua dulce
+CRISTINA FLORES RUIZ,,C5,55 5813 6924,cflores@example.com,"Camarón U-15, Camarón U-20",Clasificación por tamaño
+ARTURO VÁSQUEZ MORENO,Congelados Arturo,C6,55 6924 7035,arturo@example.com,"Filete congelado, Camarón IQF",Productos congelados individualmente
+BEATRIZ NÚÑEZ JIMÉNEZ,,C7,55 7035 8146,bnunez@example.com,"Pescado para sopa, Huesos",Productos para caldo
+,Mariscos Internacionales SA,C8,55 8146 9257,internacional@example.com,"Salmón noruego, Bacalao islandés",Importación europea
+PEDRO RAMÍREZ TORRES,La Pescadería Central,C9,55 9257 0368,central@example.com,"Mezcla para paella, Mariscos mixtos",Combos especiales
+CARMEN LÓPEZ HERNÁNDEZ,,C10,55 0368 1479,clopez@example.com,"Camarón precocido, Pulpo cocido",Productos listos para consumir
+ANTONIO GARCÍA SILVA,Distribuidora del Golfo,D1,55 1479 2580,golfo@example.com,"Jaiba azul, Cangrejo moro",Crustáceos del Golfo
+TERESA MEDINA RAMOS,,D2,55 2580 3691,tmedina@example.com,"Pescado ahumado, Salmón curado",Productos ahumados artesanales
+,Congelados Premium SA,D3,55 3691 4702,premium@example.com,"Atún bluefin, Productos premium",Alta calidad para restaurantes
+RAÚL CONTRERAS VEGA,Mariscos Raúl,D4,55 4702 5813,raul@example.com,"Camarón pacífico, Langostino ecuatoriano",Importación sudamericana
+MÓNICA TORRES DELGADO,,D5,55 5813 6924,mtorres@example.com,"Almejas chocolate, Ostión kumamoto",Moluscos especiales
+LUIS HERNÁNDEZ CASTRO,Pescadería Moderna,D6,55 6924 7035,moderna@example.com,"Pescado orgánico, Sin químicos",Productos ecológicos
+ROSA MARTÍN FLORES,,D7,55 7035 8146,rmartin@example.com,"Camarón tigre negro, Langosta espinosa",Mariscos exóticos
+,Distribuidora Pacífico Norte,D8,55 8146 9257,pacifico.norte@example.com,"Sardina, Anchoveta, Jurel",Pesca industrial
+ENRIQUE JIMÉNEZ MORALES,El Capitán Mariscos,D9,55 9257 0368,capitan@example.com,"Pescado deportivo, Marlín",Pesca deportiva comercializada
+LAURA GONZÁLEZ VÁZQUEZ,,D10,55 0368 1479,lgonzalez@example.com,"Camarón orgánico, Tilapia sustentable",Productos certificados

@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mercado de la Nueva Viga - Mapa Interactivo</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Font Awesome para iconos -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- CSS personalizado -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">Nueva Viga</div>
+                <ul class="nav-links">
+                    <li><a href="#inicio">Inicio</a></li>
+                    <li><a href="#mapa">Mapa</a></li>
+                    <li><a href="#locales">Bodegas</a></li>
+                    <li><a href="#directorio">Directorio</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="inicio" class="hero">
+        <div class="container">
+            <h1>Mercado de la Nueva Viga</h1>
+            <p>Explora el mercado de mariscos más grande de Latinoamérica a través del mapa interactivo. Encuentra bodegas, productos y servicios.</p>
+        </div>
+    </section>
+
+    <section id="mapa" class="map-section">
+        <div class="container">
+            <div class="map-container">
+                <div id="map"></div>
+            </div>
+            <div class="map-controls">
+                <button class="control-btn" id="satellite-btn">
+                    <i class="fas fa-satellite"></i> Vista Satelital
+                </button>
+                <button class="control-btn" id="streets-btn">
+                    <i class="fas fa-map"></i> Vista Calles
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <section id="locales" class="locales-section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Bodegas comerciales</h2>
+                <p>Descubre la gran variedad de mariscos frescos y productos del mar que se ofrecen en el mercado.</p>
+            </div>
+            
+            <div class="locales-grid">
+                <div class="local-card">
+                    <div class="local-icon">
+                        <i class="fas fa-fish"></i>
+                    </div>
+                    <h3>Mariscos Frescos</h3>
+                    <p>Los mejores mariscos del litoral mexicano, y de acuacultura sostenible, de proveedores locales y extranjeros.</p>
+                    <div class="local-features">
+                        <span class="feature"><i class="fas fa-check"></i> Producto fresco</span>
+                        <span class="feature"><i class="fas fa-check"></i> Precios competitivos</span>
+                    </div>
+                </div>
+
+                <div class="local-card">
+                    <div class="local-icon">
+                        <i class="fas fa-utensils"></i>
+                    </div>
+                    <h3>Restaurantes</h3>
+                    <p>Disfruta de platillos preparados al momento con los ingredientes más frescos del mercado.</p>
+                    <div class="local-features">
+                        <span class="feature"><i class="fas fa-check"></i> Comida tradicional</span>
+                        <span class="feature"><i class="fas fa-check"></i> Ambiente familiar</span>
+                    </div>
+                </div>
+
+                <div class="local-card">
+                    <div class="local-icon">
+                        <i class="fas fa-store"></i>
+                    </div>
+                    <h3>Bodegas especializadas</h3>
+                    <p>Encuentra productos específicos del mar, desde almeja chocolata hasta langosta, en las bodegas especializadas.</p>
+                    <div class="local-features">
+                        <span class="feature"><i class="fas fa-check"></i> Variedad única</span>
+                        <span class="feature"><i class="fas fa-check"></i> Atención personalizada</span>
+                    </div>
+                </div>
+
+                <div class="local-card">
+                    <div class="local-icon">
+                        <i class="fas fa-warehouse"></i>
+                    </div>
+                    <h3>Bodegas Mayoristas</h3>
+                    <p>Para comerciantes y restaurantes, se ofrece venta al mayoreo con los mejores precios.</p>
+                    <div class="local-features">
+                        <span class="feature"><i class="fas fa-check"></i> Venta al mayoreo</span>
+                        <span class="feature"><i class="fas fa-check"></i> Distribución</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Directorio de Bodegas -->
+            <div class="locales-directory" id="directorio">
+                <div class="directory-header">
+                    <h3>Directorio Completo de Bodegas</h3>
+                    <p>Encuentra toda la información de contacto y productos de las bodegas comerciales</p>
+                </div>
+                
+                <div class="table-controls">
+                    <div class="search-box">
+                        <i class="fas fa-search"></i>
+                        <input type="text" id="searchInput" placeholder="Buscar por nombre, producto o ubicación...">
+                    </div>
+                </div>
+
+                <div class="table-container">
+                    <table id="localesTable">
+                        <thead>
+                            <tr>
+                                <th>Nombre / Razón Social</th>
+                                <th>Ubicación</th>
+                                <th>Productos</th>
+                                <th>Observaciones</th>
+                                <th>Contacto</th>
+                            </tr>
+                        </thead>
+                        <tbody id="localesTableBody">
+                            <!-- Los datos se cargarán aquí dinámicamente -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contacto" class="contact-section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Contáctanos</h2>
+                <p>¿Tienes preguntas o necesitas más información? Estamos aquí para ayudarte.</p>
+            </div>
+            
+            <div class="contact-content">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <div class="contact-icon">
+                            <i class="fas fa-map-marker-alt"></i>
+                        </div>
+                        <div class="contact-details">
+                            <h3>Oficina de Pesca en la Nueva Viga</h3>
+                            <p>Mercado de Mariscos La Nueva Viga<br>
+                            Eje 6 Sur 560, Área Federal Central de Abastos <br>
+                            Alc. Iztapalapa, 09040</p>
+                        </div>
+                    </div>
+
+                    <div class="contact-item">
+                        <div class="contact-icon">
+                            <i class="fas fa-clock"></i>
+                        </div>
+                        <div class="contact-details">
+                            <h3>Horarios</h3>
+                            <p>Lunes a Viernes: 8:00 AM - 3:00 PM</p>
+                        </div>
+                    </div>
+
+                    <div class="contact-item">
+                        <div class="contact-icon">
+                            <i class="fas fa-phone"></i>
+                        </div>
+                        <div class="contact-details">
+                            <h3>Teléfono</h3>
+                            <p>Oficina de pesca: (55) 38711000<br>
+                            Extensión: 59220</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">Nueva Viga</div>
+                <ul class="footer-links">
+                    <li><a href="#inicio">Inicio</a></li>
+                    <li><a href="#mapa">Mapa</a></li>
+                    <li><a href="#locales">Bodegas</a></li>
+                    <li><a href="#directorio">Directorio</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                </ul>
+                <p class="copyright">Oficina de pesca en la Nueva Viga.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <!-- JavaScript personalizado -->
+    <script src="script.js"></script>
+</body>
+</html>

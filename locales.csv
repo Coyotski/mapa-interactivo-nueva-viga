@@ -1,0 +1,11 @@
+id,nombre,tipo,anden,bodega,telefono,email,especie,horario,contacto
+1,Mariscos El Golfo,mariscos,A-12,Bodega 15,55-1234-5678,golfo@mariscos.com,Camarón - Pulpo - Pescado,5:00-18:00,Juan Pérez
+2,Restaurante La Perla,restaurante,B-08,N/A,55-2345-6789,info@laperla.com,Comida preparada,6:00-20:00,María González
+3,Pescados del Pacífico,pescados,C-05,Bodega 23,55-3456-7890,pacifico@pescados.com,Atún - Mero - Huachinango,4:30-16:00,Carlos Martínez
+4,Mariscos Frescos SA,mayorista,A-01,Bodega 01,55-4567-8901,ventas@frescos.com,Todo tipo de mariscos,24 horas,Ana López
+5,Cocina Tradicional,restaurante,B-15,N/A,55-5678-9012,tradicional@cocina.com,Platillos del mar,7:00-19:00,Roberto Silva
+6,Camarones del Sur,especializado,C-18,Bodega 08,55-6789-0123,sur@camarones.com,Solo camarones,5:00-17:00,Diana Rodríguez
+7,Pulpos y Más,especializado,A-25,Bodega 12,55-7890-1234,pulpos@mas.com,Pulpo - Calamar,5:30-16:30,Fernando Castro
+8,Distribuidora Marina,mayorista,D-02,Bodega 05,55-8901-2345,marina@distribuidora.com,Distribución nacional,24 horas,Patricia Jiménez
+9,Ostiones El Puerto,especializado,B-22,Bodega 18,55-9012-3456,puerto@ostiones.com,Ostiones - Almejas,6:00-15:00,Miguel Torres
+10,Coctel Bar Neptuno,restaurante,C-12,N/A,55-0123-4567,bar@neptuno.com,Cocteles de mariscos,10:00-22:00,Sandra Morales

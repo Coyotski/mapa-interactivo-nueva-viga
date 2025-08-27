@@ -1,0 +1,5939 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09728091071429,
+          19.368481125000002
+        ]
+      },
+      "properties": {
+        "id": 231,
+        "type": "point",
+        "name": "Punto-1",
+        "description": "puntode prueba",
+        "anden": "a",
+        "bodega": "1",
+        "telefono": "12345",
+        "email": "perro@ejemplo.com",
+        "especie": "camarón",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09727282142858,
+          19.36854125
+        ]
+      },
+      "properties": {
+        "id": 232,
+        "type": "point",
+        "name": "Punto-2",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09726473214286,
+          19.368601375
+        ]
+      },
+      "properties": {
+        "id": 233,
+        "type": "point",
+        "name": "Punto-3",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09725664285715,
+          19.3686615
+        ]
+      },
+      "properties": {
+        "id": 234,
+        "type": "point",
+        "name": "Punto-4",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09724855357143,
+          19.368721625000003
+        ]
+      },
+      "properties": {
+        "id": 235,
+        "type": "point",
+        "name": "Punto-5",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09724046428572,
+          19.36878175
+        ]
+      },
+      "properties": {
+        "id": 236,
+        "type": "point",
+        "name": "Punto-6",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.097232375,
+          19.368841875
+        ]
+      },
+      "properties": {
+        "id": 237,
+        "type": "point",
+        "name": "Punto-7",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09722428571429,
+          19.368902000000002
+        ]
+      },
+      "properties": {
+        "id": 238,
+        "type": "point",
+        "name": "Punto-8",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09721619642858,
+          19.368962125
+        ]
+      },
+      "properties": {
+        "id": 239,
+        "type": "point",
+        "name": "Punto-9",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09720810714286,
+          19.36902225
+        ]
+      },
+      "properties": {
+        "id": 240,
+        "type": "point",
+        "name": "Punto-10",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09720001785715,
+          19.369082375
+        ]
+      },
+      "properties": {
+        "id": 241,
+        "type": "point",
+        "name": "Punto-11",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09719192857143,
+          19.369142500000002
+        ]
+      },
+      "properties": {
+        "id": 242,
+        "type": "point",
+        "name": "Punto-12",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09718383928572,
+          19.369202625
+        ]
+      },
+      "properties": {
+        "id": 243,
+        "type": "point",
+        "name": "Punto-13",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09717575,
+          19.36926275
+        ]
+      },
+      "properties": {
+        "id": 244,
+        "type": "point",
+        "name": "Punto-14",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09716766071429,
+          19.369322875
+        ]
+      },
+      "properties": {
+        "id": 245,
+        "type": "point",
+        "name": "Punto-15",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09715957142858,
+          19.369383
+        ]
+      },
+      "properties": {
+        "id": 246,
+        "type": "point",
+        "name": "Punto-16",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09715148214286,
+          19.369443125
+        ]
+      },
+      "properties": {
+        "id": 247,
+        "type": "point",
+        "name": "Punto-17",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09714339285715,
+          19.36950325
+        ]
+      },
+      "properties": {
+        "id": 248,
+        "type": "point",
+        "name": "Punto-18",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09713530357143,
+          19.369563375000002
+        ]
+      },
+      "properties": {
+        "id": 249,
+        "type": "point",
+        "name": "Punto-19",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09712721428572,
+          19.3696235
+        ]
+      },
+      "properties": {
+        "id": 250,
+        "type": "point",
+        "name": "Punto-20",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.097119125,
+          19.369683625
+        ]
+      },
+      "properties": {
+        "id": 251,
+        "type": "point",
+        "name": "Punto-21",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09711103571429,
+          19.36974375
+        ]
+      },
+      "properties": {
+        "id": 252,
+        "type": "point",
+        "name": "Punto-22",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09710294642858,
+          19.369803875
+        ]
+      },
+      "properties": {
+        "id": 253,
+        "type": "point",
+        "name": "Punto-23",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09709485714286,
+          19.369864
+        ]
+      },
+      "properties": {
+        "id": 254,
+        "type": "point",
+        "name": "Punto-24",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09708676785715,
+          19.369924125
+        ]
+      },
+      "properties": {
+        "id": 255,
+        "type": "point",
+        "name": "Punto-25",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09707867857144,
+          19.36998425
+        ]
+      },
+      "properties": {
+        "id": 256,
+        "type": "point",
+        "name": "Punto-26",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09707058928572,
+          19.370044375
+        ]
+      },
+      "properties": {
+        "id": 257,
+        "type": "point",
+        "name": "Punto-27",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0970625,
+          19.3701045
+        ]
+      },
+      "properties": {
+        "id": 258,
+        "type": "point",
+        "name": "Punto-28",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09705441071428,
+          19.370164625
+        ]
+      },
+      "properties": {
+        "id": 259,
+        "type": "point",
+        "name": "Punto-29",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09704632142856,
+          19.37022475
+        ]
+      },
+      "properties": {
+        "id": 260,
+        "type": "point",
+        "name": "Punto-30",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09703823214285,
+          19.370284875
+        ]
+      },
+      "properties": {
+        "id": 261,
+        "type": "point",
+        "name": "Punto-31",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09703014285714,
+          19.370345
+        ]
+      },
+      "properties": {
+        "id": 262,
+        "type": "point",
+        "name": "Punto-32",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09702205357142,
+          19.370405125
+        ]
+      },
+      "properties": {
+        "id": 263,
+        "type": "point",
+        "name": "Punto-33",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09701396428571,
+          19.37046525
+        ]
+      },
+      "properties": {
+        "id": 264,
+        "type": "point",
+        "name": "Punto-34",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.097005875,
+          19.370525375
+        ]
+      },
+      "properties": {
+        "id": 265,
+        "type": "point",
+        "name": "Punto-35",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09699778571428,
+          19.3705855
+        ]
+      },
+      "properties": {
+        "id": 266,
+        "type": "point",
+        "name": "Punto-36",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09698969642857,
+          19.370645624999998
+        ]
+      },
+      "properties": {
+        "id": 267,
+        "type": "point",
+        "name": "Punto-37",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09698160714285,
+          19.37070575
+        ]
+      },
+      "properties": {
+        "id": 268,
+        "type": "point",
+        "name": "Punto-38",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09697351785714,
+          19.370765875
+        ]
+      },
+      "properties": {
+        "id": 269,
+        "type": "point",
+        "name": "Punto-39",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09696542857142,
+          19.370826
+        ]
+      },
+      "properties": {
+        "id": 270,
+        "type": "point",
+        "name": "Punto-40",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09695733928571,
+          19.370886125
+        ]
+      },
+      "properties": {
+        "id": 271,
+        "type": "point",
+        "name": "Punto-41",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09694925,
+          19.37094625
+        ]
+      },
+      "properties": {
+        "id": 272,
+        "type": "point",
+        "name": "Punto-42",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09694116071428,
+          19.371006375
+        ]
+      },
+      "properties": {
+        "id": 273,
+        "type": "point",
+        "name": "Punto-43",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09693307142857,
+          19.371066499999998
+        ]
+      },
+      "properties": {
+        "id": 274,
+        "type": "point",
+        "name": "Punto-44",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09692498214285,
+          19.371126625
+        ]
+      },
+      "properties": {
+        "id": 275,
+        "type": "point",
+        "name": "Punto-45",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09691689285714,
+          19.37118675
+        ]
+      },
+      "properties": {
+        "id": 276,
+        "type": "point",
+        "name": "Punto-46",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09690880357142,
+          19.371246875
+        ]
+      },
+      "properties": {
+        "id": 277,
+        "type": "point",
+        "name": "Punto-47",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09690071428571,
+          19.371306999999998
+        ]
+      },
+      "properties": {
+        "id": 278,
+        "type": "point",
+        "name": "Punto-48",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.096892625,
+          19.371367125
+        ]
+      },
+      "properties": {
+        "id": 279,
+        "type": "point",
+        "name": "Punto-49",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09688453571428,
+          19.37142725
+        ]
+      },
+      "properties": {
+        "id": 280,
+        "type": "point",
+        "name": "Punto-50",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09687644642857,
+          19.371487374999997
+        ]
+      },
+      "properties": {
+        "id": 281,
+        "type": "point",
+        "name": "Punto-51",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09686835714285,
+          19.3715475
+        ]
+      },
+      "properties": {
+        "id": 282,
+        "type": "point",
+        "name": "Punto-52",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09686026785714,
+          19.371607625
+        ]
+      },
+      "properties": {
+        "id": 283,
+        "type": "point",
+        "name": "Punto-53",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09685217857142,
+          19.37166775
+        ]
+      },
+      "properties": {
+        "id": 284,
+        "type": "point",
+        "name": "Punto-54",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09684408928571,
+          19.371727874999998
+        ]
+      },
+      "properties": {
+        "id": 285,
+        "type": "point",
+        "name": "Punto-55",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:52",
+        "updated_at": "2025-08-21 18:40:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09739310714286,
+          19.368495910714284
+        ]
+      },
+      "properties": {
+        "id": 176,
+        "type": "point",
+        "name": "Punto-1",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09738521428572,
+          19.368555821428572
+        ]
+      },
+      "properties": {
+        "id": 177,
+        "type": "point",
+        "name": "Punto-2",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09737732142858,
+          19.368615732142857
+        ]
+      },
+      "properties": {
+        "id": 178,
+        "type": "point",
+        "name": "Punto-3",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09736942857143,
+          19.36867564285714
+        ]
+      },
+      "properties": {
+        "id": 179,
+        "type": "point",
+        "name": "Punto-4",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09736153571428,
+          19.36873555357143
+        ]
+      },
+      "properties": {
+        "id": 180,
+        "type": "point",
+        "name": "Punto-5",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09735364285714,
+          19.368795464285714
+        ]
+      },
+      "properties": {
+        "id": 181,
+        "type": "point",
+        "name": "Punto-6",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09734575,
+          19.368855375
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "type": "point",
+        "name": "Punto-7",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09733785714286,
+          19.368915285714284
+        ]
+      },
+      "properties": {
+        "id": 183,
+        "type": "point",
+        "name": "Punto-8",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09732996428572,
+          19.368975196428572
+        ]
+      },
+      "properties": {
+        "id": 184,
+        "type": "point",
+        "name": "Punto-9",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09732207142858,
+          19.369035107142857
+        ]
+      },
+      "properties": {
+        "id": 185,
+        "type": "point",
+        "name": "Punto-10",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09731417857144,
+          19.36909501785714
+        ]
+      },
+      "properties": {
+        "id": 186,
+        "type": "point",
+        "name": "Punto-11",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0973062857143,
+          19.36915492857143
+        ]
+      },
+      "properties": {
+        "id": 187,
+        "type": "point",
+        "name": "Punto-12",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09729839285714,
+          19.369214839285714
+        ]
+      },
+      "properties": {
+        "id": 188,
+        "type": "point",
+        "name": "Punto-13",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0972905,
+          19.36927475
+        ]
+      },
+      "properties": {
+        "id": 189,
+        "type": "point",
+        "name": "Punto-14",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09728260714286,
+          19.369334660714287
+        ]
+      },
+      "properties": {
+        "id": 190,
+        "type": "point",
+        "name": "Punto-15",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09727471428572,
+          19.369394571428572
+        ]
+      },
+      "properties": {
+        "id": 191,
+        "type": "point",
+        "name": "Punto-16",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09726682142858,
+          19.369454482142856
+        ]
+      },
+      "properties": {
+        "id": 192,
+        "type": "point",
+        "name": "Punto-17",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09725892857143,
+          19.36951439285714
+        ]
+      },
+      "properties": {
+        "id": 193,
+        "type": "point",
+        "name": "Punto-18",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0972510357143,
+          19.36957430357143
+        ]
+      },
+      "properties": {
+        "id": 194,
+        "type": "point",
+        "name": "Punto-19",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09724314285715,
+          19.369634214285714
+        ]
+      },
+      "properties": {
+        "id": 195,
+        "type": "point",
+        "name": "Punto-20",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09723525,
+          19.369694125
+        ]
+      },
+      "properties": {
+        "id": 196,
+        "type": "point",
+        "name": "Punto-21",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09722735714286,
+          19.369754035714287
+        ]
+      },
+      "properties": {
+        "id": 197,
+        "type": "point",
+        "name": "Punto-22",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09721946428571,
+          19.36981394642857
+        ]
+      },
+      "properties": {
+        "id": 198,
+        "type": "point",
+        "name": "Punto-23",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09721157142857,
+          19.369873857142856
+        ]
+      },
+      "properties": {
+        "id": 199,
+        "type": "point",
+        "name": "Punto-24",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09720367857143,
+          19.369933767857145
+        ]
+      },
+      "properties": {
+        "id": 200,
+        "type": "point",
+        "name": "Punto-25",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09719578571429,
+          19.36999367857143
+        ]
+      },
+      "properties": {
+        "id": 201,
+        "type": "point",
+        "name": "Punto-26",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09718789285715,
+          19.370053589285714
+        ]
+      },
+      "properties": {
+        "id": 202,
+        "type": "point",
+        "name": "Punto-27",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09718000000001,
+          19.3701135
+        ]
+      },
+      "properties": {
+        "id": 203,
+        "type": "point",
+        "name": "Punto-28",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09717210714285,
+          19.370173410714287
+        ]
+      },
+      "properties": {
+        "id": 204,
+        "type": "point",
+        "name": "Punto-29",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09716421428571,
+          19.37023332142857
+        ]
+      },
+      "properties": {
+        "id": 205,
+        "type": "point",
+        "name": "Punto-30",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09715632142857,
+          19.370293232142856
+        ]
+      },
+      "properties": {
+        "id": 206,
+        "type": "point",
+        "name": "Punto-31",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09714842857143,
+          19.370353142857144
+        ]
+      },
+      "properties": {
+        "id": 207,
+        "type": "point",
+        "name": "Punto-32",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09714053571429,
+          19.37041305357143
+        ]
+      },
+      "properties": {
+        "id": 208,
+        "type": "point",
+        "name": "Punto-33",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09713264285715,
+          19.370472964285714
+        ]
+      },
+      "properties": {
+        "id": 209,
+        "type": "point",
+        "name": "Punto-34",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09712475,
+          19.370532875000002
+        ]
+      },
+      "properties": {
+        "id": 210,
+        "type": "point",
+        "name": "Punto-35",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09711685714286,
+          19.370592785714287
+        ]
+      },
+      "properties": {
+        "id": 211,
+        "type": "point",
+        "name": "Punto-36",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09710896428571,
+          19.37065269642857
+        ]
+      },
+      "properties": {
+        "id": 212,
+        "type": "point",
+        "name": "Punto-37",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09710107142857,
+          19.37071260714286
+        ]
+      },
+      "properties": {
+        "id": 213,
+        "type": "point",
+        "name": "Punto-38",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09709317857143,
+          19.370772517857144
+        ]
+      },
+      "properties": {
+        "id": 214,
+        "type": "point",
+        "name": "Punto-39",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09708528571429,
+          19.37083242857143
+        ]
+      },
+      "properties": {
+        "id": 215,
+        "type": "point",
+        "name": "Punto-40",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09707739285714,
+          19.370892339285714
+        ]
+      },
+      "properties": {
+        "id": 216,
+        "type": "point",
+        "name": "Punto-41",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0970695,
+          19.370952250000002
+        ]
+      },
+      "properties": {
+        "id": 217,
+        "type": "point",
+        "name": "Punto-42",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09706160714286,
+          19.371012160714287
+        ]
+      },
+      "properties": {
+        "id": 218,
+        "type": "point",
+        "name": "Punto-43",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09705371428572,
+          19.37107207142857
+        ]
+      },
+      "properties": {
+        "id": 219,
+        "type": "point",
+        "name": "Punto-44",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09704582142857,
+          19.37113198214286
+        ]
+      },
+      "properties": {
+        "id": 220,
+        "type": "point",
+        "name": "Punto-45",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09703792857142,
+          19.371191892857144
+        ]
+      },
+      "properties": {
+        "id": 221,
+        "type": "point",
+        "name": "Punto-46",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09703003571428,
+          19.37125180357143
+        ]
+      },
+      "properties": {
+        "id": 222,
+        "type": "point",
+        "name": "Punto-47",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09702214285714,
+          19.371311714285717
+        ]
+      },
+      "properties": {
+        "id": 223,
+        "type": "point",
+        "name": "Punto-48",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09701425,
+          19.371371625000002
+        ]
+      },
+      "properties": {
+        "id": 224,
+        "type": "point",
+        "name": "Punto-49",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09700635714286,
+          19.371431535714287
+        ]
+      },
+      "properties": {
+        "id": 225,
+        "type": "point",
+        "name": "Punto-50",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09699846428572,
+          19.37149144642857
+        ]
+      },
+      "properties": {
+        "id": 226,
+        "type": "point",
+        "name": "Punto-51",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09699057142856,
+          19.37155135714286
+        ]
+      },
+      "properties": {
+        "id": 227,
+        "type": "point",
+        "name": "Punto-52",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09698267857142,
+          19.371611267857144
+        ]
+      },
+      "properties": {
+        "id": 228,
+        "type": "point",
+        "name": "Punto-53",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09697478571428,
+          19.37167117857143
+        ]
+      },
+      "properties": {
+        "id": 229,
+        "type": "point",
+        "name": "Punto-54",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09696689285714,
+          19.371731089285717
+        ]
+      },
+      "properties": {
+        "id": 230,
+        "type": "point",
+        "name": "Punto-55",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:40:45",
+        "updated_at": "2025-08-21 18:40:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09765461538461,
+          19.370124923076922
+        ]
+      },
+      "properties": {
+        "id": 151,
+        "type": "point",
+        "name": "Punto-1",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09764823076924,
+          19.370181846153844
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "type": "point",
+        "name": "Punto-2",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09764184615385,
+          19.37023876923077
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "type": "point",
+        "name": "Punto-3",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09763546153846,
+          19.370295692307693
+        ]
+      },
+      "properties": {
+        "id": 154,
+        "type": "point",
+        "name": "Punto-4",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09762907692308,
+          19.370352615384615
+        ]
+      },
+      "properties": {
+        "id": 155,
+        "type": "point",
+        "name": "Punto-5",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0976226923077,
+          19.370409538461537
+        ]
+      },
+      "properties": {
+        "id": 156,
+        "type": "point",
+        "name": "Punto-6",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0976163076923,
+          19.370466461538463
+        ]
+      },
+      "properties": {
+        "id": 157,
+        "type": "point",
+        "name": "Punto-7",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09760992307692,
+          19.370523384615385
+        ]
+      },
+      "properties": {
+        "id": 158,
+        "type": "point",
+        "name": "Punto-8",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09760353846154,
+          19.370580307692308
+        ]
+      },
+      "properties": {
+        "id": 159,
+        "type": "point",
+        "name": "Punto-9",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09759715384615,
+          19.37063723076923
+        ]
+      },
+      "properties": {
+        "id": 160,
+        "type": "point",
+        "name": "Punto-10",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09759076923076,
+          19.370694153846156
+        ]
+      },
+      "properties": {
+        "id": 161,
+        "type": "point",
+        "name": "Punto-11",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09758438461539,
+          19.370751076923078
+        ]
+      },
+      "properties": {
+        "id": 162,
+        "type": "point",
+        "name": "Punto-12",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.097578,
+          19.370808
+        ]
+      },
+      "properties": {
+        "id": 163,
+        "type": "point",
+        "name": "Punto-13",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09757161538461,
+          19.370864923076923
+        ]
+      },
+      "properties": {
+        "id": 164,
+        "type": "point",
+        "name": "Punto-14",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09756523076923,
+          19.370921846153845
+        ]
+      },
+      "properties": {
+        "id": 165,
+        "type": "point",
+        "name": "Punto-15",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09755884615385,
+          19.37097876923077
+        ]
+      },
+      "properties": {
+        "id": 166,
+        "type": "point",
+        "name": "Punto-16",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09755246153846,
+          19.371035692307693
+        ]
+      },
+      "properties": {
+        "id": 167,
+        "type": "point",
+        "name": "Punto-17",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09754607692308,
+          19.371092615384615
+        ]
+      },
+      "properties": {
+        "id": 168,
+        "type": "point",
+        "name": "Punto-18",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09753969230769,
+          19.371149538461538
+        ]
+      },
+      "properties": {
+        "id": 169,
+        "type": "point",
+        "name": "Punto-19",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0975333076923,
+          19.371206461538463
+        ]
+      },
+      "properties": {
+        "id": 170,
+        "type": "point",
+        "name": "Punto-20",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09752692307691,
+          19.371263384615386
+        ]
+      },
+      "properties": {
+        "id": 171,
+        "type": "point",
+        "name": "Punto-21",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09752053846154,
+          19.371320307692308
+        ]
+      },
+      "properties": {
+        "id": 172,
+        "type": "point",
+        "name": "Punto-22",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09751415384615,
+          19.37137723076923
+        ]
+      },
+      "properties": {
+        "id": 173,
+        "type": "point",
+        "name": "Punto-23",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09750776923076,
+          19.371434153846156
+        ]
+      },
+      "properties": {
+        "id": 174,
+        "type": "point",
+        "name": "Punto-24",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09750138461538,
+          19.37149107692308
+        ]
+      },
+      "properties": {
+        "id": 175,
+        "type": "point",
+        "name": "Punto-25",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:14",
+        "updated_at": "2025-08-21 18:38:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09782438461538,
+          19.37014303846154
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "type": "point",
+        "name": "Punto-1",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09781776923077,
+          19.370200076923076
+        ]
+      },
+      "properties": {
+        "id": 127,
+        "type": "point",
+        "name": "Punto-2",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09781115384615,
+          19.370257115384614
+        ]
+      },
+      "properties": {
+        "id": 128,
+        "type": "point",
+        "name": "Punto-3",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09780453846153,
+          19.370314153846156
+        ]
+      },
+      "properties": {
+        "id": 129,
+        "type": "point",
+        "name": "Punto-4",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09779792307693,
+          19.370371192307694
+        ]
+      },
+      "properties": {
+        "id": 130,
+        "type": "point",
+        "name": "Punto-5",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0977913076923,
+          19.37042823076923
+        ]
+      },
+      "properties": {
+        "id": 131,
+        "type": "point",
+        "name": "Punto-6",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09778469230768,
+          19.37048526923077
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "type": "point",
+        "name": "Punto-7",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09777807692308,
+          19.370542307692308
+        ]
+      },
+      "properties": {
+        "id": 133,
+        "type": "point",
+        "name": "Punto-8",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09777146153846,
+          19.370599346153845
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "type": "point",
+        "name": "Punto-9",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09776484615384,
+          19.370656384615387
+        ]
+      },
+      "properties": {
+        "id": 135,
+        "type": "point",
+        "name": "Punto-10",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09775823076923,
+          19.370713423076925
+        ]
+      },
+      "properties": {
+        "id": 136,
+        "type": "point",
+        "name": "Punto-11",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09775161538461,
+          19.370770461538463
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "type": "point",
+        "name": "Punto-12",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09774499999999,
+          19.3708275
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "type": "point",
+        "name": "Punto-13",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09773838461538,
+          19.37088453846154
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "type": "point",
+        "name": "Punto-14",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09773176923076,
+          19.370941576923077
+        ]
+      },
+      "properties": {
+        "id": 140,
+        "type": "point",
+        "name": "Punto-15",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09772515384616,
+          19.370998615384615
+        ]
+      },
+      "properties": {
+        "id": 141,
+        "type": "point",
+        "name": "Punto-16",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09771853846154,
+          19.371055653846156
+        ]
+      },
+      "properties": {
+        "id": 142,
+        "type": "point",
+        "name": "Punto-17",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09771192307691,
+          19.371112692307694
+        ]
+      },
+      "properties": {
+        "id": 143,
+        "type": "point",
+        "name": "Punto-18",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09770530769231,
+          19.371169730769232
+        ]
+      },
+      "properties": {
+        "id": 144,
+        "type": "point",
+        "name": "Punto-19",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09769869230769,
+          19.37122676923077
+        ]
+      },
+      "properties": {
+        "id": 145,
+        "type": "point",
+        "name": "Punto-20",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09769207692307,
+          19.371283807692308
+        ]
+      },
+      "properties": {
+        "id": 146,
+        "type": "point",
+        "name": "Punto-21",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09768546153846,
+          19.371340846153846
+        ]
+      },
+      "properties": {
+        "id": 147,
+        "type": "point",
+        "name": "Punto-22",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09767884615384,
+          19.371397884615387
+        ]
+      },
+      "properties": {
+        "id": 148,
+        "type": "point",
+        "name": "Punto-23",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09767223076922,
+          19.371454923076925
+        ]
+      },
+      "properties": {
+        "id": 149,
+        "type": "point",
+        "name": "Punto-24",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09766561538461,
+          19.371511961538463
+        ]
+      },
+      "properties": {
+        "id": 150,
+        "type": "point",
+        "name": "Punto-25",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:38:05",
+        "updated_at": "2025-08-21 18:38:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0978822,
+          19.368541500000003
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "type": "point",
+        "name": "Punto-1",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09787440000001,
+          19.3686
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "type": "point",
+        "name": "Punto-2",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0978666,
+          19.368658500000002
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "type": "point",
+        "name": "Punto-3",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09785880000001,
+          19.368717
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "type": "point",
+        "name": "Punto-4",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.097851,
+          19.3687755
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "type": "point",
+        "name": "Punto-5",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0978432,
+          19.368834
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "type": "point",
+        "name": "Punto-6",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09783540000001,
+          19.3688925
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "type": "point",
+        "name": "Punto-7",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0978276,
+          19.368951
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "type": "point",
+        "name": "Punto-8",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09781980000001,
+          19.3690095
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "type": "point",
+        "name": "Punto-9",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.097812,
+          19.369068
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "type": "point",
+        "name": "Punto-10",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0978042,
+          19.3691265
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "type": "point",
+        "name": "Punto-11",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09779640000001,
+          19.369185
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "type": "point",
+        "name": "Punto-12",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0977886,
+          19.3692435
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "type": "point",
+        "name": "Punto-13",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09778080000001,
+          19.369302
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "type": "point",
+        "name": "Punto-14",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.097773,
+          19.3693605
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "type": "point",
+        "name": "Punto-15",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0977652,
+          19.369419
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "type": "point",
+        "name": "Punto-16",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0977574,
+          19.3694775
+        ]
+      },
+      "properties": {
+        "id": 123,
+        "type": "point",
+        "name": "Punto-17",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0977496,
+          19.369536
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "type": "point",
+        "name": "Punto-18",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09774180000001,
+          19.369594499999998
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "type": "point",
+        "name": "Punto-19",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:52",
+        "updated_at": "2025-08-21 18:37:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09791405,
+          19.36961275
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "type": "point",
+        "name": "Punto-1",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09792110000001,
+          19.3695545
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "type": "point",
+        "name": "Punto-2",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09792815,
+          19.36949625
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "type": "point",
+        "name": "Punto-3",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09793520000001,
+          19.369438
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "type": "point",
+        "name": "Punto-4",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09794225,
+          19.36937975
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "type": "point",
+        "name": "Punto-5",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09794930000001,
+          19.3693215
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "type": "point",
+        "name": "Punto-6",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09795635,
+          19.36926325
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "type": "point",
+        "name": "Punto-7",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09796340000001,
+          19.369205
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "type": "point",
+        "name": "Punto-8",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09797045,
+          19.36914675
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "type": "point",
+        "name": "Punto-9",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09797750000001,
+          19.3690885
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "type": "point",
+        "name": "Punto-10",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09798455,
+          19.36903025
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "type": "point",
+        "name": "Punto-11",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0979916,
+          19.368972
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "type": "point",
+        "name": "Punto-12",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09799865000001,
+          19.36891375
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "type": "point",
+        "name": "Punto-13",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0980057,
+          19.3688555
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "type": "point",
+        "name": "Punto-14",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09801275000001,
+          19.36879725
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "type": "point",
+        "name": "Punto-15",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0980198,
+          19.368739
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "type": "point",
+        "name": "Punto-16",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09802685000001,
+          19.36868075
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "type": "point",
+        "name": "Punto-17",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0980339,
+          19.3686225
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "type": "point",
+        "name": "Punto-18",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09804095000001,
+          19.36856425
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "type": "point",
+        "name": "Punto-19",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:37:39",
+        "updated_at": "2025-08-21 18:37:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09856206666666,
+          19.368462483333335
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "type": "point",
+        "name": "Punto-1",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09855513333333,
+          19.36851796666667
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "type": "point",
+        "name": "Punto-2",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0985482,
+          19.36857345
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "type": "point",
+        "name": "Punto-3",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09854126666666,
+          19.368628933333333
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "type": "point",
+        "name": "Punto-4",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09853433333333,
+          19.368684416666667
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "type": "point",
+        "name": "Punto-5",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0985274,
+          19.3687399
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "type": "point",
+        "name": "Punto-6",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09852046666667,
+          19.368795383333335
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "type": "point",
+        "name": "Punto-7",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09851353333333,
+          19.36885086666667
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "type": "point",
+        "name": "Punto-8",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0985066,
+          19.36890635
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "type": "point",
+        "name": "Punto-9",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09849966666667,
+          19.368961833333334
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "type": "point",
+        "name": "Punto-10",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09849273333333,
+          19.369017316666667
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "type": "point",
+        "name": "Punto-11",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09848579999999,
+          19.3690728
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "type": "point",
+        "name": "Punto-12",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09847886666667,
+          19.369128283333335
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "type": "point",
+        "name": "Punto-13",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09847193333333,
+          19.369183766666666
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "type": "point",
+        "name": "Punto-14",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09846499999999,
+          19.36923925
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "type": "point",
+        "name": "Punto-15",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09845806666667,
+          19.369294733333334
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "type": "point",
+        "name": "Punto-16",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09845113333333,
+          19.369350216666668
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "type": "point",
+        "name": "Punto-17",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0984442,
+          19.3694057
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "type": "point",
+        "name": "Punto-18",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09843726666666,
+          19.369461183333335
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "type": "point",
+        "name": "Punto-19",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09843033333333,
+          19.369516666666666
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "type": "point",
+        "name": "Punto-20",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0984234,
+          19.36957215
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "type": "point",
+        "name": "Punto-21",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09841646666666,
+          19.369627633333334
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "type": "point",
+        "name": "Punto-22",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09840953333332,
+          19.369683116666668
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "type": "point",
+        "name": "Punto-23",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0984026,
+          19.3697386
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "type": "point",
+        "name": "Punto-24",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09839566666666,
+          19.369794083333332
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "type": "point",
+        "name": "Punto-25",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09838873333334,
+          19.369849566666666
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "type": "point",
+        "name": "Punto-26",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0983818,
+          19.36990505
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "type": "point",
+        "name": "Punto-27",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09837486666666,
+          19.369960533333334
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "type": "point",
+        "name": "Punto-28",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09836793333334,
+          19.370016016666668
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "type": "point",
+        "name": "Punto-29",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.098361,
+          19.370071499999998
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "type": "point",
+        "name": "Punto-30",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09835406666666,
+          19.370126983333332
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "type": "point",
+        "name": "Punto-31",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09834713333333,
+          19.370182466666666
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "type": "point",
+        "name": "Punto-32",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0983402,
+          19.37023795
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "type": "point",
+        "name": "Punto-33",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09833326666666,
+          19.370293433333334
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "type": "point",
+        "name": "Punto-34",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09832633333333,
+          19.370348916666668
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "type": "point",
+        "name": "Punto-35",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0983194,
+          19.370404399999998
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "type": "point",
+        "name": "Punto-36",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09831246666667,
+          19.370459883333332
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "type": "point",
+        "name": "Punto-37",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09830553333333,
+          19.370515366666666
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "type": "point",
+        "name": "Punto-38",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09829859999999,
+          19.37057085
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "type": "point",
+        "name": "Punto-39",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09829166666667,
+          19.370626333333334
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "type": "point",
+        "name": "Punto-40",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09828473333333,
+          19.370681816666664
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "type": "point",
+        "name": "Punto-41",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09827779999999,
+          19.3707373
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "type": "point",
+        "name": "Punto-42",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09827086666667,
+          19.370792783333332
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "type": "point",
+        "name": "Punto-43",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09826393333333,
+          19.370848266666666
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "type": "point",
+        "name": "Punto-44",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.098257,
+          19.37090375
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "type": "point",
+        "name": "Punto-45",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09825006666667,
+          19.370959233333334
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "type": "point",
+        "name": "Punto-46",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09824313333333,
+          19.371014716666664
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "type": "point",
+        "name": "Punto-47",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0982362,
+          19.3710702
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "type": "point",
+        "name": "Punto-48",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09822926666666,
+          19.371125683333332
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "type": "point",
+        "name": "Punto-49",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09822233333333,
+          19.371181166666666
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "type": "point",
+        "name": "Punto-50",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0982154,
+          19.37123665
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "type": "point",
+        "name": "Punto-51",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09820846666666,
+          19.37129213333333
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "type": "point",
+        "name": "Punto-52",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09820153333332,
+          19.371347616666664
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "type": "point",
+        "name": "Punto-53",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0981946,
+          19.3714031
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "type": "point",
+        "name": "Punto-54",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09818766666666,
+          19.371458583333332
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "type": "point",
+        "name": "Punto-55",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09818073333334,
+          19.371514066666666
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "type": "point",
+        "name": "Punto-56",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0981738,
+          19.37156955
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "type": "point",
+        "name": "Punto-57",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09816686666666,
+          19.37162503333333
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "type": "point",
+        "name": "Punto-58",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09815993333333,
+          19.371680516666665
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "type": "point",
+        "name": "Punto-59",
+        "description": "",
+        "anden": "",
+        "bodega": "",
+        "telefono": "",
+        "email": "",
+        "especie": "",
+        "created_at": "2025-08-21 18:36:42",
+        "updated_at": "2025-08-21 18:36:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.14335,
+          19.390546
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "type": "point",
+        "name": "Nuevo elemento",
+        "description": "punto numero1",
+        "anden": "a",
+        "bodega": "1",
+        "telefono": "12345",
+        "email": "perro@ejemplo.com",
+        "especie": "camarón",
+        "created_at": "2025-07-29 16:39:11",
+        "updated_at": "2025-07-29 16:39:11"
+      }
+    }
+  ]
+}
