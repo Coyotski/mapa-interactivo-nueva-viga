@@ -20,23 +20,6 @@ Este proyecto presenta un mapa interactivo y un directorio completo de las bodeg
 
 [Ver Demo en Vivo](https://coyotski.github.io/mapa-interactivo-nueva-viga/)
 
-## 📸 Capturas de Pantalla
-
-
-### Mapa Interactivo
-![Mapa Interactivo]![Figura 1](fig1.png)
-
-### Directorio de Bodegas
-![Directorio]![Figura 3](fig3.png)
-
-### Otras capturas
-
-![Figura 2](fig2.png)
-
-![Figura 4](fig4.png)
-
-
-
 ## 🛠️ Tecnologías Utilizadas
 
 - **HTML5** - Estructura semántica
