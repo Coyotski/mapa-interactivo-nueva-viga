@@ -2,8 +2,8 @@
 
 Un sistema web interactivo para explorar el Mercado de Mariscos La Nueva Viga, el mercado de productos del mar más grande de Latinoamérica, ubicado en la Ciudad de México.
 
-[![GitHub Stars](https://img.shields.io/github/stars/Coyotski/dotDager?style=social)](https://github.com/Coyotski/dotDager/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Coyotski/dotDager?style=social)](https://github.com/Coyotski/dotDager/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/Coyotski/mapa-interactivo-nueva-viga?style=social)](https://github.com/Coyotski/mapa-interactivo-nueva-viga/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Coyotski/mapa-interactivo-nueva-viga?style=social)](https://github.com/Coyotski/mapa-interactivo-nueva-viga/network/members)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## 📋 Descripción
@@ -18,24 +18,24 @@ Este proyecto presenta un mapa interactivo y un directorio completo de las bodeg
 
 ## 🚀 Demo
 
-[Ver Demo en Vivo](https://coyotski.github.io/dotDager/) *(Actualiza con tu URL de GitHub Pages)*
+[Ver Demo en Vivo](https://coyotski.github.io/mapa-interactivo-nueva-viga/)
 
 ## 📸 Capturas de Pantalla
 
 
 ### Mapa Interactivo
-![Mapa Interactivo](screenshots/mapa.png)
+![Mapa Interactivo]![Figura 1](fig1.png)
 
 ### Directorio de Bodegas
-![Directorio](screenshots/directorio.png)
+![Directorio]![Figura 3](fig3.png)
 
 ### Otras capturas
-![Figura 1](fig1.png)
+
 ![Figura 2](fig2.png)
-![Figura 3](fig3.png)
+
 ![Figura 4](fig4.png)
 
-*(Añade capturas de pantalla de tu aplicación en una carpeta `screenshots/`)*
+
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -72,8 +72,8 @@ directorioweb/
 
 1. **Clona el repositorio**
    ```bash
-   git clone https://github.com/Coyotski/dotDager.git
-   cd dotDager
+   git clone https://github.com/Coyotski/mapa-interactivo-nueva-viga.git
+   cd mapa-interactivo-nueva-viga
    ```
 
 2. **Inicia un servidor local**
@@ -191,8 +191,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 ## 📞 Contacto
 
 - **Email**: crciq2010@gmail.com
-- **Proyecto**: [https://github.com/Coyotski/dotDager](https://github.com/Coyotski/dotDager)
-- **Issues**: [https://github.com/Coyotski/dotDager/issues](https://github.com/Coyotski/dotDager/issues)
+- **Proyecto**: [https://github.com/Coyotski/mapa-interactivo-nueva-viga](https://github.com/Coyotski/mapa-interactivo-nueva-viga)
+- **Issues**: [https://github.com/Coyotski/mapa-interactivo-nueva-viga/issues](https://github.com/Coyotski/mapa-interactivo-nueva-viga/issues)
 
 ## 📈 Estado del Proyecto
 
